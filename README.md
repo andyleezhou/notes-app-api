@@ -1,7 +1,7 @@
 # Scratch App BackEnd
-*A simple note taking app called Scratch. It is a single page application powered by a serverless API written completely in JavaScript. This is the complete source for the frontend. The backend code is located at https://github.com/andyleezhou/notes-app-api
+* A simple note taking app called Scratch. It is a single page application powered by a serverless API written completely in JavaScript. This is the complete source for the frontend. The backend code is located at https://github.com/andyleezhou/notes-app-api
 
-##REQUIREMENTS
+## REQUIREMENTS
 * Should allow users to signup and login to their accounts
 * Users should be able to create notes with some content
 * Each note can also have an uploaded file as an attachment
@@ -10,7 +10,7 @@
 * The app needs to be responsive
 The app is deployed on the AWS Platform at http://d2qtfgxzoeuy1b.cloudfront.net
 
-##SUMMARY
+## SUMMARY
 * Set up project with Create React App
 * Add favicons, fonts, and a UI Kit using Bootstrap
 * Set up routes using React-Router
